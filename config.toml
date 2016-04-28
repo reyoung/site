@@ -44,7 +44,7 @@ RSSUri = "feed.xml"
 
 [Menu]
   [[Menu.Main]]
-    Name = "博客"
+    Name = "首页"
     URL = "/"
     Weight = 1
   [[Menu.Main]]
