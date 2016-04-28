@@ -2,8 +2,8 @@
 date        = "2016-04-28T19:19:00+08:00"
 title       = "新的博客"
 description = "终于有新的博客地址啦"
-tags        = [ "Development", "Go", "profiling" ]
-topics      = [ "Development", "Go" ]
+tags        = [ "新的博客", "杂感" ]
+topics      = [ "杂感" ]
 +++
 # 新的博客
 
