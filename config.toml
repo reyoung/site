@@ -6,6 +6,7 @@ Theme = "hugo-pacman-theme"
 pygmentsStyle = "default"
 pygmentsUseClasses = true
 RSSUri = "feed.xml"
+enableRobotsTXT = true
 
 [Author]
   Name = "reyoung"
