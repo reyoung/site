@@ -7,7 +7,7 @@ topics: [ "博客", "瞎折腾" ]
 toc     : ""
 ---
 
-[上一次](how_to_deploy_blog_system)说到如何使用hugo做一个静态博客系统。这次，准备把这个静态博客系统部署到自己的服务器中。
+[上一次](/post/how_to_deploy_blog_system/)说到如何使用hugo做一个静态博客系统。这次，准备把这个静态博客系统部署到自己的服务器中。
 
 我们使用的http server是caddy。其实，之前我自己架博客都是用lighttpd的，因为lighttpd的配置比较简单。但是，最近发现caddy的配置更简单。而且，只要上了caddy，就直接支持了GZip，http2，https等功能。
 
