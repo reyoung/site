@@ -158,7 +158,7 @@ git commit -m "new post"
 git push
 {{</highlight>}}
 
-即可以把新文章push到服务器上存起来了。至此，第一部分，使用hugo架设博客就写的差不多了，下一篇文章会写如何使用Caddy这个http server来在服务器上把博客serve出去。
+即可以把新文章push到服务器上存起来了。至此，第一部分，使用hugo架设博客就写的差不多了，[下一篇](/post/how_to_deploy_blog_system_part2/)文章会写如何使用Caddy这个http server来在服务器上把博客serve出去。
 
 ### 如果没有VPS怎么办？
 
